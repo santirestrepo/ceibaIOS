@@ -1,0 +1,7 @@
+use_frameworks!
+
+platform :ios, '11.0'
+
+target 'TestIOS' do
+    pod 'SQLite.swift', '~> 0.14.0'
+end
